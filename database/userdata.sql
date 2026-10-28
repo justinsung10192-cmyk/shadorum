@@ -1,3 +1,6 @@
+--Database of user data for the application
+
+
 CREATE DATABASE IF NOT EXISTS main_database;
 USE main_database;
 
